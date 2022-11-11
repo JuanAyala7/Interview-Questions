@@ -1,3 +1,5 @@
+// First Question:
+
 a = [6, 4, 2] 
 a.sort() 
 b = none 
