@@ -1,0 +1,9 @@
+a = [6, 4, 2] 
+a.sort() 
+b = none 
+
+print(a == b)
+
+// What will be the output? True or False
+
+// Answer: True
